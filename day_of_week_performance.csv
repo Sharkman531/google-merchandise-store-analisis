@@ -1,0 +1,8 @@
+day_of_week,day_number,sessions,transactions,revenue_usd,conversion_rate_pct
+Sunday,1,100360,990,75841.72,0.99
+Monday,2,140905,2132,272050.26,1.51
+Tuesday,3,147279,2106,307466.24,1.43
+Wednesday,4,146733,2046,298488.44,1.39
+Thursday,5,142399,2001,269170.56,1.41
+Friday,6,128331,1983,258656.66,1.55
+Saturday,7,97646,857,58397.36,0.88

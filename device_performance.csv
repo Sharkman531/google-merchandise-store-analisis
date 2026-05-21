@@ -1,0 +1,4 @@
+device,sessions,transactions,revenue_usd,conversion_rate_pct
+desktop,664479,11071,1480864.09,1.67
+mobile,208725,866,49785.81,0.41
+tablet,30449,178,9421.34,0.58
